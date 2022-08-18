@@ -1,7 +1,6 @@
 ---
 name: Package - Report Issue / Suggest Missing Package / Package Outdated
 description: Something went wrong with an installation? Want a package to be added to the community repository?
----
 
 body:
   - type: markdown
